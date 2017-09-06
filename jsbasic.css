@@ -1,0 +1,36 @@
+*{
+	background-color: #800000;
+	font-family:Arial;
+	font-size: 30px;
+	margin:auto;
+	position:relative;
+}
+
+h1{
+	background-color: white; 
+	color:black; 
+	text-align: center;
+}
+h2{
+	text-align:center;
+	margin: 50px;
+}
+
+li{
+	padding:25px;
+	text-align:center;
+	list-style-type:none;
+}
+
+a{
+	text-decoration: none;
+	color:white;
+}
+a:hover{
+	text-decoration: none;
+	color:black;
+}
+li a:hover{
+	text-decoration: none;
+	color:black;
+}
